@@ -9,7 +9,7 @@ I'm a student at the Technical University of Kenya, currently studying Informati
 - ⚡ Fun fact: I love solving tech problems and exploring how things work under the hood and reality
 
 ## Let's Connect!
-- GitHub: Jrry-ke:
+- GitHub: Jrry-ke:https://github.com/Jrry-ke
 - LinkedIn: https://www.linkedin.com/in/jeremiah-madoya-9171a4272
 - Leetcode: https://leetcode.com/u/j_rry/
 
